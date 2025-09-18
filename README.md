@@ -19,6 +19,9 @@ Engaging UI: Smooth gameplay with modernized snake design.
 Python 3.10+
 
 Pygame – for game logic & rendering
+<img width="1280" height="1024" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3542db53-d9f2-4ebc-a27d-71ee6fdd4874" />
+<img width="1280" height="1024" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/79791135-f00d-4c53-afce-167fbf2acd42" />
+
 
 OpenCV – for real-time video capture
 
